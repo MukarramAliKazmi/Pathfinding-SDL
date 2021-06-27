@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\usre\source\repos\2ndSDLWindow\2ndSDLWindow\main.c(690,1): warning C4026: function declared with formal parameter list
+  2ndSDLWindow.vcxproj -> C:\Users\usre\source\repos\2ndSDLWindow\x64\Debug\2ndSDLWindow.exe
